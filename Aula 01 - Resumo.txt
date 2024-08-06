@@ -1,0 +1,19 @@
+Linguagem = C# (Microsoft - 2000)
+Plataforma = .NET
+Visual Studio != Visual Studio Code (windows only - compilador nativo)
+
+Características:
+- Sintaxe rígida
+- Tipagem estática = necessidade de declarar tipo, ou seja, declaração de tipo explícita
+- métodos e funções muito presentes
+- sempre colocar ";" ao final
+- posso utilizar "double" e "float" para declarar variáveis de valor decimal, porém, o float requer um "f" ao final
+- $ no lugar do f para chamar variável dentro do WriteLine
+- @ pula linha em relação ao que está acima
+- existe o tipo "long" e, no final, devo colocar um "L"
+
+
+Comandos:
+Console.WriteLine();
+Console.ReadKey();
+Console.ReadLine();

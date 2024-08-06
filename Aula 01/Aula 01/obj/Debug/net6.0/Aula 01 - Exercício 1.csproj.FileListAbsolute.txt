@@ -1,0 +1,14 @@
+C:\Users\62127702024.2\source\repos\Aula 01\Aula 01\bin\Debug\net6.0\Aula 01 - Exercício 1.exe
+C:\Users\62127702024.2\source\repos\Aula 01\Aula 01\bin\Debug\net6.0\Aula 01 - Exercício 1.deps.json
+C:\Users\62127702024.2\source\repos\Aula 01\Aula 01\bin\Debug\net6.0\Aula 01 - Exercício 1.runtimeconfig.json
+C:\Users\62127702024.2\source\repos\Aula 01\Aula 01\bin\Debug\net6.0\Aula 01 - Exercício 1.dll
+C:\Users\62127702024.2\source\repos\Aula 01\Aula 01\bin\Debug\net6.0\Aula 01 - Exercício 1.pdb
+C:\Users\62127702024.2\source\repos\Aula 01\Aula 01\obj\Debug\net6.0\Aula 01 - Exercício 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\62127702024.2\source\repos\Aula 01\Aula 01\obj\Debug\net6.0\Aula 01 - Exercício 1.AssemblyInfoInputs.cache
+C:\Users\62127702024.2\source\repos\Aula 01\Aula 01\obj\Debug\net6.0\Aula 01 - Exercício 1.AssemblyInfo.cs
+C:\Users\62127702024.2\source\repos\Aula 01\Aula 01\obj\Debug\net6.0\Aula 01 - Exercício 1.csproj.CoreCompileInputs.cache
+C:\Users\62127702024.2\source\repos\Aula 01\Aula 01\obj\Debug\net6.0\Aula 01 - Exercício 1.dll
+C:\Users\62127702024.2\source\repos\Aula 01\Aula 01\obj\Debug\net6.0\refint\Aula 01 - Exercício 1.dll
+C:\Users\62127702024.2\source\repos\Aula 01\Aula 01\obj\Debug\net6.0\Aula 01 - Exercício 1.pdb
+C:\Users\62127702024.2\source\repos\Aula 01\Aula 01\obj\Debug\net6.0\Aula 01 - Exercício 1.genruntimeconfig.cache
+C:\Users\62127702024.2\source\repos\Aula 01\Aula 01\obj\Debug\net6.0\ref\Aula 01 - Exercício 1.dll

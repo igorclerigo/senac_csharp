@@ -1,0 +1,14 @@
+C:\Users\62127702024.2\source\repos\Aula 01\Exemplo\bin\Debug\net6.0\Exemplo.exe
+C:\Users\62127702024.2\source\repos\Aula 01\Exemplo\bin\Debug\net6.0\Exemplo.deps.json
+C:\Users\62127702024.2\source\repos\Aula 01\Exemplo\bin\Debug\net6.0\Exemplo.runtimeconfig.json
+C:\Users\62127702024.2\source\repos\Aula 01\Exemplo\bin\Debug\net6.0\Exemplo.dll
+C:\Users\62127702024.2\source\repos\Aula 01\Exemplo\bin\Debug\net6.0\Exemplo.pdb
+C:\Users\62127702024.2\source\repos\Aula 01\Exemplo\obj\Debug\net6.0\Exemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\62127702024.2\source\repos\Aula 01\Exemplo\obj\Debug\net6.0\Exemplo.AssemblyInfoInputs.cache
+C:\Users\62127702024.2\source\repos\Aula 01\Exemplo\obj\Debug\net6.0\Exemplo.AssemblyInfo.cs
+C:\Users\62127702024.2\source\repos\Aula 01\Exemplo\obj\Debug\net6.0\Exemplo.csproj.CoreCompileInputs.cache
+C:\Users\62127702024.2\source\repos\Aula 01\Exemplo\obj\Debug\net6.0\Exemplo.dll
+C:\Users\62127702024.2\source\repos\Aula 01\Exemplo\obj\Debug\net6.0\refint\Exemplo.dll
+C:\Users\62127702024.2\source\repos\Aula 01\Exemplo\obj\Debug\net6.0\Exemplo.pdb
+C:\Users\62127702024.2\source\repos\Aula 01\Exemplo\obj\Debug\net6.0\Exemplo.genruntimeconfig.cache
+C:\Users\62127702024.2\source\repos\Aula 01\Exemplo\obj\Debug\net6.0\ref\Exemplo.dll

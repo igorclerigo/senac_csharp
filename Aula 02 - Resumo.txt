@@ -1,0 +1,10 @@
+Estrutura de sintaxe nova:
+- switch (só funciona com número)
+
+
+comentar várias linhas de uma vez:
+/* */
+
+Operadores lógicos:
+ll = or
+&& = and

@@ -1,0 +1,16 @@
+C:\Users\62127702024.2\source\repos\Aula 03\Exemplo 1 - forms\bin\Debug\net6.0-windows\Exemplo 1 - forms.exe
+C:\Users\62127702024.2\source\repos\Aula 03\Exemplo 1 - forms\bin\Debug\net6.0-windows\Exemplo 1 - forms.deps.json
+C:\Users\62127702024.2\source\repos\Aula 03\Exemplo 1 - forms\bin\Debug\net6.0-windows\Exemplo 1 - forms.runtimeconfig.json
+C:\Users\62127702024.2\source\repos\Aula 03\Exemplo 1 - forms\bin\Debug\net6.0-windows\Exemplo 1 - forms.dll
+C:\Users\62127702024.2\source\repos\Aula 03\Exemplo 1 - forms\bin\Debug\net6.0-windows\Exemplo 1 - forms.pdb
+C:\Users\62127702024.2\source\repos\Aula 03\Exemplo 1 - forms\obj\Debug\net6.0-windows\Exemplo_1___forms.Form1.resources
+C:\Users\62127702024.2\source\repos\Aula 03\Exemplo 1 - forms\obj\Debug\net6.0-windows\Exemplo 1 - forms.csproj.GenerateResource.cache
+C:\Users\62127702024.2\source\repos\Aula 03\Exemplo 1 - forms\obj\Debug\net6.0-windows\Exemplo 1 - forms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\62127702024.2\source\repos\Aula 03\Exemplo 1 - forms\obj\Debug\net6.0-windows\Exemplo 1 - forms.AssemblyInfoInputs.cache
+C:\Users\62127702024.2\source\repos\Aula 03\Exemplo 1 - forms\obj\Debug\net6.0-windows\Exemplo 1 - forms.AssemblyInfo.cs
+C:\Users\62127702024.2\source\repos\Aula 03\Exemplo 1 - forms\obj\Debug\net6.0-windows\Exemplo 1 - forms.csproj.CoreCompileInputs.cache
+C:\Users\62127702024.2\source\repos\Aula 03\Exemplo 1 - forms\obj\Debug\net6.0-windows\Exemplo 1 - forms.dll
+C:\Users\62127702024.2\source\repos\Aula 03\Exemplo 1 - forms\obj\Debug\net6.0-windows\refint\Exemplo 1 - forms.dll
+C:\Users\62127702024.2\source\repos\Aula 03\Exemplo 1 - forms\obj\Debug\net6.0-windows\Exemplo 1 - forms.pdb
+C:\Users\62127702024.2\source\repos\Aula 03\Exemplo 1 - forms\obj\Debug\net6.0-windows\Exemplo 1 - forms.genruntimeconfig.cache
+C:\Users\62127702024.2\source\repos\Aula 03\Exemplo 1 - forms\obj\Debug\net6.0-windows\ref\Exemplo 1 - forms.dll

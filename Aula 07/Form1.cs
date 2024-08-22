@@ -174,5 +174,13 @@ namespace Aula_07
         {
 
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            Form2 form2 = new Form2();
+
+            // Exibe o form2 como uma nova janela
+            form2.Show();
+        }
     }
 }

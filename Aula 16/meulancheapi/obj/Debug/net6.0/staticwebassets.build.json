@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "sysPQSstBUf8iWR8wC35GyMKwRkeMsNTzV5p5tDjCyk=",
+  "Source": "meulancheapi",
+  "BasePath": "_content/meulancheapi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

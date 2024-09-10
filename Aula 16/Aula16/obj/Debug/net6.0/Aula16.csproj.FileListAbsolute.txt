@@ -1,0 +1,14 @@
+C:\Users\62127702024.2\source\repos\Aula16\bin\Debug\net6.0\Aula16.exe
+C:\Users\62127702024.2\source\repos\Aula16\bin\Debug\net6.0\Aula16.deps.json
+C:\Users\62127702024.2\source\repos\Aula16\bin\Debug\net6.0\Aula16.runtimeconfig.json
+C:\Users\62127702024.2\source\repos\Aula16\bin\Debug\net6.0\Aula16.dll
+C:\Users\62127702024.2\source\repos\Aula16\bin\Debug\net6.0\Aula16.pdb
+C:\Users\62127702024.2\source\repos\Aula16\obj\Debug\net6.0\Aula16.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\62127702024.2\source\repos\Aula16\obj\Debug\net6.0\Aula16.AssemblyInfoInputs.cache
+C:\Users\62127702024.2\source\repos\Aula16\obj\Debug\net6.0\Aula16.AssemblyInfo.cs
+C:\Users\62127702024.2\source\repos\Aula16\obj\Debug\net6.0\Aula16.csproj.CoreCompileInputs.cache
+C:\Users\62127702024.2\source\repos\Aula16\obj\Debug\net6.0\Aula16.dll
+C:\Users\62127702024.2\source\repos\Aula16\obj\Debug\net6.0\refint\Aula16.dll
+C:\Users\62127702024.2\source\repos\Aula16\obj\Debug\net6.0\Aula16.pdb
+C:\Users\62127702024.2\source\repos\Aula16\obj\Debug\net6.0\Aula16.genruntimeconfig.cache
+C:\Users\62127702024.2\source\repos\Aula16\obj\Debug\net6.0\ref\Aula16.dll

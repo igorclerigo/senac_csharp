@@ -1,0 +1,5 @@
+C:\Users\62127702024.2\source\repos\produtoapp\obj\Release\net6.0\produtoapp.csproj.AssemblyReference.cache
+C:\Users\62127702024.2\source\repos\produtoapp\obj\Release\net6.0\produtoapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\62127702024.2\source\repos\produtoapp\obj\Release\net6.0\produtoapp.AssemblyInfoInputs.cache
+C:\Users\62127702024.2\source\repos\produtoapp\obj\Release\net6.0\produtoapp.AssemblyInfo.cs
+C:\Users\62127702024.2\source\repos\produtoapp\obj\Release\net6.0\produtoapp.csproj.CoreCompileInputs.cache

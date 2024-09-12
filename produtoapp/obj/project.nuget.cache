@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UzO91xJimxDFvZWlxWrUqzHJBtV5Pw846ZsnC5oOiMyHJTlQVONNKs31TO4M3wLMCLvLNdc0RnfRbEnvxJoUlw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\62127702024.2\\source\\repos\\produtoapp\\produtoapp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\62127702024.2\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

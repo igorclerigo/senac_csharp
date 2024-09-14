@@ -1,0 +1,14 @@
+C:\Users\62127702024.2\source\repos\Aula 18.2\bin\Debug\net6.0\Cotação criptomoeda.exe
+C:\Users\62127702024.2\source\repos\Aula 18.2\bin\Debug\net6.0\Cotação criptomoeda.deps.json
+C:\Users\62127702024.2\source\repos\Aula 18.2\bin\Debug\net6.0\Cotação criptomoeda.runtimeconfig.json
+C:\Users\62127702024.2\source\repos\Aula 18.2\bin\Debug\net6.0\Cotação criptomoeda.dll
+C:\Users\62127702024.2\source\repos\Aula 18.2\bin\Debug\net6.0\Cotação criptomoeda.pdb
+C:\Users\62127702024.2\source\repos\Aula 18.2\obj\Debug\net6.0\Cotação criptomoeda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\62127702024.2\source\repos\Aula 18.2\obj\Debug\net6.0\Cotação criptomoeda.AssemblyInfoInputs.cache
+C:\Users\62127702024.2\source\repos\Aula 18.2\obj\Debug\net6.0\Cotação criptomoeda.AssemblyInfo.cs
+C:\Users\62127702024.2\source\repos\Aula 18.2\obj\Debug\net6.0\Cotação criptomoeda.csproj.CoreCompileInputs.cache
+C:\Users\62127702024.2\source\repos\Aula 18.2\obj\Debug\net6.0\Cotação criptomoeda.dll
+C:\Users\62127702024.2\source\repos\Aula 18.2\obj\Debug\net6.0\refint\Cotação criptomoeda.dll
+C:\Users\62127702024.2\source\repos\Aula 18.2\obj\Debug\net6.0\Cotação criptomoeda.pdb
+C:\Users\62127702024.2\source\repos\Aula 18.2\obj\Debug\net6.0\Cotação criptomoeda.genruntimeconfig.cache
+C:\Users\62127702024.2\source\repos\Aula 18.2\obj\Debug\net6.0\ref\Cotação criptomoeda.dll

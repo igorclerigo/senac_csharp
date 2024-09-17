@@ -1,0 +1,4 @@
+IDEIA:
+Sistema web de recomendação de linguagens de programação para iniciantes baseado no objetivo do usuário. 
+deverá ser levado em conta as bibliotecas e frameworks que serão usados. 
+Esse sistema buscará informaçoes reais em fóruns reais (opinioes de pessoas)

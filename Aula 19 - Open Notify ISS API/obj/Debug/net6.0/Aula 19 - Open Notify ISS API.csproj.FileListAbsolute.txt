@@ -1,0 +1,17 @@
+C:\Users\62127702024.2\source\repos\Aula 19 - Open Notify ISS API\obj\Debug\net6.0\Aula 19 - Open Notify ISS API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\62127702024.2\source\repos\Aula 19 - Open Notify ISS API\obj\Debug\net6.0\Aula 19 - Open Notify ISS API.AssemblyInfoInputs.cache
+C:\Users\62127702024.2\source\repos\Aula 19 - Open Notify ISS API\obj\Debug\net6.0\Aula 19 - Open Notify ISS API.AssemblyInfo.cs
+C:\Users\62127702024.2\source\repos\Aula 19 - Open Notify ISS API\obj\Debug\net6.0\Aula 19 - Open Notify ISS API.csproj.CoreCompileInputs.cache
+C:\Users\62127702024.2\source\repos\Aula 19 - Open Notify ISS API\bin\Debug\net6.0\Aula 19 - Open Notify ISS API.exe
+C:\Users\62127702024.2\source\repos\Aula 19 - Open Notify ISS API\bin\Debug\net6.0\Aula 19 - Open Notify ISS API.deps.json
+C:\Users\62127702024.2\source\repos\Aula 19 - Open Notify ISS API\bin\Debug\net6.0\Aula 19 - Open Notify ISS API.runtimeconfig.json
+C:\Users\62127702024.2\source\repos\Aula 19 - Open Notify ISS API\bin\Debug\net6.0\Aula 19 - Open Notify ISS API.dll
+C:\Users\62127702024.2\source\repos\Aula 19 - Open Notify ISS API\bin\Debug\net6.0\Aula 19 - Open Notify ISS API.pdb
+C:\Users\62127702024.2\source\repos\Aula 19 - Open Notify ISS API\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\62127702024.2\source\repos\Aula 19 - Open Notify ISS API\obj\Debug\net6.0\Aula 19 - Open Notify ISS API.csproj.AssemblyReference.cache
+C:\Users\62127702024.2\source\repos\Aula 19 - Open Notify ISS API\obj\Debug\net6.0\Aula 19 - Open Notify ISS API.csproj.CopyComplete
+C:\Users\62127702024.2\source\repos\Aula 19 - Open Notify ISS API\obj\Debug\net6.0\Aula 19 - Open Notify ISS API.dll
+C:\Users\62127702024.2\source\repos\Aula 19 - Open Notify ISS API\obj\Debug\net6.0\refint\Aula 19 - Open Notify ISS API.dll
+C:\Users\62127702024.2\source\repos\Aula 19 - Open Notify ISS API\obj\Debug\net6.0\Aula 19 - Open Notify ISS API.pdb
+C:\Users\62127702024.2\source\repos\Aula 19 - Open Notify ISS API\obj\Debug\net6.0\Aula 19 - Open Notify ISS API.genruntimeconfig.cache
+C:\Users\62127702024.2\source\repos\Aula 19 - Open Notify ISS API\obj\Debug\net6.0\ref\Aula 19 - Open Notify ISS API.dll

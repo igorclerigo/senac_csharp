@@ -1,0 +1,18 @@
+C:\Users\62127702024.2\source\repos\Telegram BOT\bin\Debug\net6.0\Telegram BOT.exe
+C:\Users\62127702024.2\source\repos\Telegram BOT\bin\Debug\net6.0\Telegram BOT.deps.json
+C:\Users\62127702024.2\source\repos\Telegram BOT\bin\Debug\net6.0\Telegram BOT.runtimeconfig.json
+C:\Users\62127702024.2\source\repos\Telegram BOT\bin\Debug\net6.0\Telegram BOT.dll
+C:\Users\62127702024.2\source\repos\Telegram BOT\bin\Debug\net6.0\Telegram BOT.pdb
+C:\Users\62127702024.2\source\repos\Telegram BOT\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\62127702024.2\source\repos\Telegram BOT\bin\Debug\net6.0\Telegram.Bot.dll
+C:\Users\62127702024.2\source\repos\Telegram BOT\obj\Debug\net6.0\Telegram BOT.csproj.AssemblyReference.cache
+C:\Users\62127702024.2\source\repos\Telegram BOT\obj\Debug\net6.0\Telegram BOT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\62127702024.2\source\repos\Telegram BOT\obj\Debug\net6.0\Telegram BOT.AssemblyInfoInputs.cache
+C:\Users\62127702024.2\source\repos\Telegram BOT\obj\Debug\net6.0\Telegram BOT.AssemblyInfo.cs
+C:\Users\62127702024.2\source\repos\Telegram BOT\obj\Debug\net6.0\Telegram BOT.csproj.CoreCompileInputs.cache
+C:\Users\62127702024.2\source\repos\Telegram BOT\obj\Debug\net6.0\Telegram BOT.csproj.CopyComplete
+C:\Users\62127702024.2\source\repos\Telegram BOT\obj\Debug\net6.0\Telegram BOT.dll
+C:\Users\62127702024.2\source\repos\Telegram BOT\obj\Debug\net6.0\refint\Telegram BOT.dll
+C:\Users\62127702024.2\source\repos\Telegram BOT\obj\Debug\net6.0\Telegram BOT.pdb
+C:\Users\62127702024.2\source\repos\Telegram BOT\obj\Debug\net6.0\Telegram BOT.genruntimeconfig.cache
+C:\Users\62127702024.2\source\repos\Telegram BOT\obj\Debug\net6.0\ref\Telegram BOT.dll
